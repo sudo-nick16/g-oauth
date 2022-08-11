@@ -1,0 +1,5 @@
+node_modules
+dist
+.env
+gConfig.json
+yarn-error.log
